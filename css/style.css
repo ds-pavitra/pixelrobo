@@ -1715,7 +1715,13 @@ body.menu-open {
     align-self: auto;
 }
 
-
+.bookConsultForm{
+    height: 436px;
+    border: 1px solid lightgrey;
+}
+.firstColumn{
+    border-right: 1px solid lightgrey;
+}
 
 
 /* custome style ends  */
